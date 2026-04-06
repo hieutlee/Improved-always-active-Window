@@ -1,0 +1,3 @@
+// This script is for testing in console log. Make sure to verify stealthy status prior to usage. 
+// This script will test for mouse movement, focus/unfocus, hidden state and what not. 
+
